@@ -1,5 +1,7 @@
 # Th3ProxyTools
 
+> [🇬🇧 English version](README_EN.md)
+
 Плагин для [exteraGram](https://exteragram.app/) — расширенный менеджер прокси.
 
 ## Возможности
