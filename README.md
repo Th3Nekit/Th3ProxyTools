@@ -1,3 +1,10 @@
+<p align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset=".github/expressive/header-dark.svg">
+  <img src=".github/expressive/header-light.svg" width="100%" alt="Th3ProxyTools — проект Th3Nekit">
+</picture>
+</p>
+
 # Th3ProxyTools
 
 > [English version](README_EN.md)
